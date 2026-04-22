@@ -1,0 +1,11 @@
+This analysis explores the relationship between market sentiment and trader behavior using Fear & Greed Index data combined with historical trading data.
+
+The study reveals that traders behave differently depending on market sentiment. During Greed periods, traders show increased activity, larger trade sizes, and higher risk-taking behavior. However, this often leads to inconsistent returns due to overtrading.
+
+In contrast, Fear periods are associated with lower trading activity and more cautious behavior, although profitability remains lower.
+
+Segmentation analysis indicates that frequent traders tend to underperform compared to infrequent traders, highlighting the negative impact of overtrading.
+
+Based on these findings, two actionable strategies are recommended: reducing leverage during Fear periods and limiting trade frequency during Greed periods to improve overall performance.
+
+This analysis demonstrates how sentiment-driven insights can be used to design more disciplined and effective trading strategies.
